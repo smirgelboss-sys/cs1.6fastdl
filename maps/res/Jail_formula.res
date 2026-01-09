@@ -1,0 +1,16 @@
+maps/jail_formula.bsp
+maps/jail_formula.res
+models/jail_formula/w_crowbar.mdl
+models/jail_formula/v_crowbar.mdl
+models/jail_formula/svetofor.mdl
+models/jail_formula/pi_tree3.mdl
+models/jail_formula/pi_tree1.mdl
+models/jail_formula/p_crowbar.mdl
+sound/jail_formula/afroman.wav
+sound/jail_formula/Godfather.wav
+gfx/env/grnplsntbk.tga
+gfx/env/grnplsntdn.tga
+gfx/env/grnplsntft.tga
+gfx/env/grnplsntlf.tga
+gfx/env/grnplsntrt.tga
+gfx/env/grnplsntup.tga

@@ -1,0 +1,4 @@
+jail_greytown_pfm_fix.wad
+de_vegas.wad
+maps/jail_greytown_pfm_fix.bsp
+maps/jail_greytown_pfm_fix.res
