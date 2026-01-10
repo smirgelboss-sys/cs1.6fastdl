@@ -1,0 +1,4 @@
+3
+weapon			640 furien30_shop/Bow	0	0	170	45
+weapon_s		640 furien30_shop/Bow	0	45	170	45
+ammo			640 furien30_shop/640hud12	73	231	24	24

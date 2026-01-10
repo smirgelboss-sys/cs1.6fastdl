@@ -1,0 +1,4 @@
+3
+weapon			640 zm_cso/640hud57	0	180	170	45
+weapon_s		640 zm_cso/640hud58	0	180	170	45
+ammo			640 zm_cso/640hud7	0	72	24	24
