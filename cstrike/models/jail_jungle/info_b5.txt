@@ -1,6 +1,0 @@
-I found all tree models in my model directory, these
-are the original paths and filenames (relative to the
-counter-strike/cstrike/ directory):
-
-fern.mdl: models/jb_nck/fern.mdl
-tree02.mdl: models/tree2.mdl

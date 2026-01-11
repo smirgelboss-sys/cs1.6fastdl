@@ -1,4 +1,0 @@
-3
-weapon			640 dynasty_zm/640hud49	0	180	170	45
-weapon_s		640 dynasty_zm/640hud50	0	180	170	45
-ammo			640 dynasty_zm/640hud7	208	180	24	24

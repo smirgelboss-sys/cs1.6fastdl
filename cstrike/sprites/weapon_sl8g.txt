@@ -1,5 +1,0 @@
-4
-weapon			640 dynasty_zm/640hud34	0	0	170	45
-weapon_s		640 dynasty_zm/640hud34	0	45	170	45
-ammo			640 dynasty_zm/640hud7	0	96	24	24
-zoom			640 dynasty_zm/scope_sl8ex	0	0	512	512
